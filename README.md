@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Myself a enthusiatic and fun coder, currently working on some fun projects using ML<br>👯 I’m looking to collaborate on projects having MERN (Backend)<br>🌱 I’m currently learning Machine Learning (Python) and DevOps<br>💬 If you have any fun projects to show off the skills count me in.<br>⚡ Fun fact : Funny af
+🔭 Myself a enthusiatic and fun coder, currently working on some fun projects using ML<br>👯 I’m looking to collaborate on projects having MERN (Backend) & Django<br>🌱 I’m currently learning Machine Learning (Python) and DevOps<br>💬 If you have any fun projects to show off the skills count me in.<br>⚡ Fun fact : Funny af
 
 
 ## 🌐 Socials:
